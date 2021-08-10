@@ -1,4 +1,5 @@
 
+# This program calculate positive , negative and zero ratio of a given list
 
 def getArray (size) :
     list = []                                   # store all values
